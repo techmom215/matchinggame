@@ -1,0 +1,28 @@
+body{
+    background: url(http://angelaandrews.netne.net/img/feathers.png);
+}
+header {
+    width: 975px;
+    background-color: gray;
+    color:	white;
+    padding-left: 20px;
+    font-family: Arial;
+}
+h1 {
+    text-align: center; padding-top: 20px;}
+p {
+    text-align: center; padding-bottom: 20px;}
+img {
+    position: absolute;}
+
+div{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+}
+
+#rightSide {
+    left: 500px;
+    border-left: 1px solid black;
+}
